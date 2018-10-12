@@ -5,4 +5,10 @@ Once you have got the CSRFSyncT.war file in the target directory, deploy it in a
 
 You can access the application with the URL http://localhost:(port)/CSRFSyncT
 
-For more information about CSRF Synchronizer Token pattern, visit 
+For more information about CSRF Synchronizer Token pattern : https://idealhax.blogspot.com/2018/10/synchronizer-token-pattern.html
+
+Read An Introduction to CSRF : https://idealhax.blogspot.com/2018/10/cross-site-request-forgery-csrf-attack.html
+
+Desgin and Developed by : Budditha Rathnayaka
+
+Mail : 90sbudditha@gmail.com
